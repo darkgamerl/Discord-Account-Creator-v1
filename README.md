@@ -1,3 +1,3 @@
-# Discord-Account-Creator-v1
+# Discord-Token-Gen
 
 open the creator.exe file to create
